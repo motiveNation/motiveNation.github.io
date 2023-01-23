@@ -1,66 +1,9 @@
 ---
-title: "Edge Case: Nested and Mixed Lists"
+title: "First Light"
 categories:
-  - Edge Case
+  - Website
 tags:
-  - content
-  - css
-  - edge case
-  - lists
-  - markup
+  - website
 ---
 
-Nested and mixed lists are an interesting beast. It's a corner case to make sure that
-
-* Lists within lists do not break the ordered list numbering order
-* Your list styles go deep enough.
-
-### Ordered -- Unordered -- Ordered
-
-1. ordered item
-2. ordered item 
-   * **unordered**
-   * **unordered** 
-     1. ordered item
-     2. ordered item
-3. ordered item
-4. ordered item
-
-### Ordered -- Unordered -- Unordered
-
-1. ordered item
-2. ordered item 
-   * **unordered**
-   * **unordered** 
-     * unordered item
-     * unordered item
-3. ordered item
-4. ordered item
-
-### Unordered -- Ordered -- Unordered
-
-* unordered item
-* unordered item 
-  1. ordered
-  2. ordered 
-     * unordered item
-     * unordered item
-* unordered item
-* unordered item
-
-### Unordered -- Unordered -- Ordered
-
-* unordered item
-* unordered item 
-  * unordered
-  * unordered 
-    1. **ordered item**
-    2. **ordered item**
-* unordered item
-* unordered item
-
-### Task Lists
-
-- [x] Finish my changes
-- [ ] Push my commits to GitHub
-- [ ] Open a pull request
+This is the first test post for FUSE R&D. This will be a place to post news about our efforts to research, design, build and run efficient fossil fuel free watercraft in the waters near Vancouver, BC, Canada
