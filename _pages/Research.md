@@ -11,3 +11,4 @@ Current investigations include:
 - writing custom software for sailing research projects
 - installing and testing software from other sources
 
+![13 Meter Kite for Kite Surfing](/assets/img/wing.jpg "13 meter kite")
