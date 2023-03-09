@@ -4,10 +4,10 @@ permalink: /about/
 ---
 # About
 
-This website is just a simple place to collect notices about progress being made on some simple sailing research projects, done by Christian Nally and associates, mostly in and near the waters of the Gulf Islands, in British Columbia, Canada.
+First Light Sailing is Christian Nally and Associates. We conduct sailing research and development projects in and near the waters surrounding British Columbia, Canada's Gulf Islands.
 
-# Vikingr
+# Race 2 Alaska
 
-> The Old Norse feminine víking (as in the phrase fara í víking) may originally have been a long-distance sea journey characterised by the shifting of rowers, and a víkingr (masculine gender) would originally have been a participant on such a sea journey. In that case, the idea behind it seems to be that the tired rower moves aside on the thwart when he is relieved by the rested rower. This implies that the word Viking was not originally connected to Scandinavian seafarers, but assumed this meaning when the Scandinavians began to dominate the seas. Even the word vikingr did not necessarily possess negative overtones nor was it always associated with violence, and only in the post-Viking age would negative overtones be attached to the word.
+The Race to Alaska is an annual event hosted and organized by [the Northwest Maritime Center](https://nwmaritime.org/). First Light's current focus is preparing a novel entry into this race.
 
-
+If you have any interest in our projects, reach out to us any way you like, via our [Contact](/contact) page.

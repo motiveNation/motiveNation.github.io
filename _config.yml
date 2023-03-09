@@ -16,9 +16,9 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "FUSE Sailing Research and Development"
+title                    : "First Light"
 title_separator          : "-"
-subtitle                 : # site tagline that appears below site title in masthead
+subtitle                 : "Sailing Research and Development" # site tagline that appears below site title in masthead
 name                     : "Christian Nally"
 description              : "R&D on Fast, Efficient, Robust, Fossil Fuel Free Watercraft"
 url                      : "https://motiveNation.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
