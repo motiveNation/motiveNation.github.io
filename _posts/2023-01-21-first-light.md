@@ -1,11 +1,26 @@
 ---
-title: "First Light"
+title: "Any Idiot Can Be Uncomfortable."
 categories:
   - Website
 tags:
   - website
+author: "Christian Nally"
 ---
 
-This is the first test post for FUSE R&D. This will be a place to post news about our efforts to research, design, build and run efficient fossil fuel free watercraft in the waters near Vancouver, BC, Canada.
+You know that conversation that's had in forum's across the Sailing web? The one that goes... "Yeah. Just slap some foils on that puppy and it'll fly just like those boats in the America's Cup." Well... this is what happens when people start taking that conversation more seriously than you think they should.
+
+I've been a fan-boy for the Race to Alaska since its inception, watching the racers go by from the shores of the island I live on. But this year, something hit different, and now I'm chest deep in plans to make the dream of participating come true.
+
+Anyone who's been willing to listen to my natter on and on about it has been subjected to listening to me 'blue sky' this thing. I've been WAY down the YouTube rabbit hole and back again, trying to find examples of real things happening that are encouraging, that match the visions in my head, and where I might find some encouragement.
+
+But let's be real for a moment. The smart thing to do is not start any of this.
+
+But let's rolling the clock back a few years. In 2015, that first notice for the Race 2 Alaska
+
+Then in 2017, I'd read about the voyage of <a href="https://www.nationalgeographic.com/travel/article/stand-up-paddle-board-atlantic-chris-bertish" target="_blank">Chris Bertish across the Atlantic on a paddleboard</a>. My first impression was perhaps similar to what yours might be... "A Paddle Board? Is he nuts?". But for me it went a step further. What kind of person would neglect to use a sail? I mean, seriously. Just put a sail on it and call it a day! And so a phrase was born in my head, a phrase that would act as a container for my philosophy about pretty much everything:
+
+"Any idiot can be uncomfortable."
+
+The phrase is meant to capture the fact that comfort doesn't necessarily need to be expensive, or be derived from complex infrastructure. Surely, with a little forethought and a nod to the tried and true, it's possible to do extreme things AND be comfortable at the same time. In the paddlerboarder's case, surely that impulse would suggest slapping a sail on that paddleboard so he could expend less energy getting from A to B?
 
 ![Hobie Cat Catamaran](https://photos.app.goo.gl/y8RYbyzVjbjxdimp6 "Hobie Cat Catamaran")
