@@ -3,7 +3,8 @@ title: "The Oarlocks Need A Lift."
 categories:
   - Website
 tags:
-  - rowing, sailing
+  - rowing
+  - sailing
 author: "Christian Nally"
 ---
 
