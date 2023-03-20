@@ -17,6 +17,7 @@ I'll keep a running tab of costs here.
 | AIS Receiver | receiving the position of boats that I might run into | $78.72 USD |
 | nuts and bolts | for the clamps to attach things to the boat | $15 |
 | foil contruction R&D | hydrofoils might come in handy | uncalculable debt to Ian "for the exposure" Maday |
+| Racing Paddles | Simple Human Propulsion | $120 |
 | Dry Suit | | |
 | New Standing Rigging | |
 | New Running Rigging | |
