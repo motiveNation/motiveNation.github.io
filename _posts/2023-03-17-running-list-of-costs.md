@@ -25,3 +25,5 @@ I'll keep a running tab of costs here.
 | Anti-pitchpoling Plates | |
 | Deconstructable Ultralight Cabin-top | |
 | EPRIB | |
+
+Thanks also to Jan Tepoorten-Swan and Martin Swan for the valuable refit dockspace!
