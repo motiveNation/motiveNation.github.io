@@ -18,6 +18,7 @@ I'll keep a running tab of costs here.
 | nuts and bolts | for the clamps to attach things to the boat | $15 |
 | foil contruction R&D | hydrofoils might come in handy | uncalculable debt to Ian "for the exposure" Maday |
 | Racing Paddles | Simple Human Propulsion | $120 |
+| Rowing Sliding Seat | Human propulsion | $413.10 USD Angus Boats |
 | Dry Suit | | |
 | New Standing Rigging | |
 | New Running Rigging | |
@@ -25,5 +26,6 @@ I'll keep a running tab of costs here.
 | Anti-pitchpoling Plates | |
 | Deconstructable Ultralight Cabin-top | |
 | EPRIB | |
+
 
 Thanks also to Jan Tepoorten-Swan and Martin Swan for the valuable refit dockspace!
